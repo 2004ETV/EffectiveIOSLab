@@ -1,0 +1,16 @@
+/*
+  Localizable.strings
+  MedApp
+
+  Created by user225687 on 11/25/23.
+  
+*/
+
+"user_greeting" = "Hello";
+"category_covid" = "Covid 19";
+"category_doctor" = "Doctor";
+"category_medicine" = "Medicine";
+"category_hospital" = "Hospital";
+"recording_date" = "Sunday, 12 June";
+"near_doctor" = "Near Doctor";
+"home" = "Home";
